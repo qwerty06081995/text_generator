@@ -210,3 +210,10 @@ backend/venv
 backend/.idea
 frontend/.idea
 frontend/node_modules
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/text_generator.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
